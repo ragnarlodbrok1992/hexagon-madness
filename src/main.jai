@@ -78,7 +78,7 @@ update_and_render_ui :: () {
 
 main :: () {
   // Start message
-  print("Sea of Profit\n");
+  print("Hexagon Madness\n");
 
   // Defer gracefull ending - if message is not printed, bad stuff happened!
   defer print("Engine exited successfully!\n");
